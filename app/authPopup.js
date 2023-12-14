@@ -38,7 +38,7 @@ function handleResponse(response) {
     }
 }
 
-function signIn() {
+function signI1n() {
 
     /**
      * You can pass a custom request object below. This will override the initial configuration. For more information, visit:
